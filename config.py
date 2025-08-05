@@ -26,7 +26,7 @@ UPLOAD_PATHS = {}
 GDRIVE_ID = "1gykH9f1PUAtm_s_F0Jr41QvFkREHGLLT"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = True
-INDEX_URL = "https://drive.mikemoz.workers.dev/0:/"
+INDEX_URL = "https://drive.mikemoz.workers.dev/"
 # Rclone
 RCLONE_PATH = ""
 RCLONE_FLAGS = ""
