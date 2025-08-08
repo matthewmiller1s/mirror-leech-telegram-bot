@@ -1,17 +1,17 @@
 # REQUIRED CONFIG
 BOT_TOKEN = ""
-OWNER_ID = "924387554"
-TELEGRAM_API = "6801006"
-TELEGRAM_HASH = "f8abf7d5316ae065006b43e4a69bd66e"
+OWNER_ID = 0
+TELEGRAM_API = 0
+TELEGRAM_HASH = ""
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = "-1004823751430"
-SUDO_USERS = "7241212729"
-DATABASE_URL = "mongodb+srv://mikemailbox432:MvrUzD9d6hcQrAs1@cluster0.y0el9jp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+AUTHORIZED_CHATS = ""
+SUDO_USERS = ""
+DATABASE_URL = ""
 STATUS_LIMIT = 4
-DEFAULT_UPLOAD = "gd"
+DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
@@ -23,10 +23,10 @@ NAME_SUBSTITUTE = ""
 FFMPEG_CMDS = {}
 UPLOAD_PATHS = {}
 # GDrive Tools
-GDRIVE_ID = "1jKw0paZC2cWhbDSJPN1elyKphMx0DLOs"
+GDRIVE_ID = ""
 IS_TEAM_DRIVE = False
-STOP_DUPLICATE = True
-INDEX_URL = "https://drive.mikemoz.workers.dev/"
+STOP_DUPLICATE = False
+INDEX_URL = ""
 # Rclone
 RCLONE_PATH = ""
 RCLONE_FLAGS = ""
@@ -35,8 +35,8 @@ RCLONE_SERVE_PORT = 0
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 # JDownloader
-JD_EMAIL = "mharr1smailbox@gmail.com"
-JD_PASS = "Nft2Ly2.Cye8UWt"
+JD_EMAIL = ""
+JD_PASS = ""
 # Sabnzbd
 USENET_SERVERS = [
     {
@@ -62,7 +62,7 @@ USENET_SERVERS = [
 HYDRA_IP = ""
 HYDRA_API_KEY = ""
 # Update
-UPSTREAM_REPO = "https://github.com/matthewmiller1s/mirror-leech-telegram-bot/"
+UPSTREAM_REPO = ""
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
